@@ -58,6 +58,20 @@
                     "query": "",
                     "launchMode": "default",
                     "scene": null
+                },
+                {
+                    "name": "图表",
+                    "pathName": "pages/echartsbill/echartsbill",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "上传",
+                    "pathName": "pages/uplord/uplord",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
                 }
             ]
         }
