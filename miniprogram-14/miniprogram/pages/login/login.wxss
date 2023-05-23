@@ -1,0 +1,60 @@
+/* pages/login/login.wxss */
+.header{
+  height: 200rpx;
+  padding:40rpx 30rpx;
+  display: flex;
+  flex-direction: column;
+  background-color:#0b9fe4;
+  color: rgb(235, 231, 10);
+}
+.title{
+  font-size: 52rpx;
+  font-weight: 700;
+  padding: 20rpx;
+}
+.header .info{
+font-size:28rpx ;
+padding: 20rpx;
+}
+.body{
+  padding: 40rpx;
+}
+.input{
+  margin-top: 20rpx;
+
+}
+.one{
+height: 100rpx;
+  margin-top: 20rpx;
+  box-shadow: #056901 0 0 5rpx;
+  border-radius: 10rpx;
+}
+.two{
+  border: solid 1rpx #57b676;
+  margin-top: 40rpx;
+  width: 100%;
+  background-color: #73d884;
+  border-radius: 40rpx;
+}
+.end{
+  display: flex;
+  justify-content: center;
+  margin-top: 40rpx;
+ color: #45a142;
+}
+.end text{
+  margin-left:30rpx;
+}
+.end-power{
+  display: flex;
+ justify-content: center;
+}
+.power{
+color: #25a154;
+position: fixed;
+bottom: 50rpx;
+
+}
+.remenber{
+  margin-top: 20rpx;
+}

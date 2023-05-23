@@ -1,0 +1,10 @@
+<!--pages/index/index.wxml-->
+<!-- index.wxml -->
+<view class="page-container">
+  <view class="page-title">主界面</view>
+  <view class="button-group">
+    <button bindtap="uploadBill">录入账单</button>
+    <button bindtap="inloadBill">账单操作</button>
+    <button bindtap="logout">注销</button>
+  </view>
+</view>

@@ -1,0 +1,7 @@
+<!-- upload.wxml -->
+<view class="page-container">
+  <view class="button-group">
+    <button bindtap="uploadFile">上传账单</button>
+    <button bindtap="goBack">返回</button>
+  </view>
+</view>

@@ -1,0 +1,4 @@
+<view class="containers">
+  <ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="{{ ec }}"></ec-canvas>
+  <button bindtap="goBack">返回</button>
+</view>
